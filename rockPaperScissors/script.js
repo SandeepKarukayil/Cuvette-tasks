@@ -40,7 +40,7 @@ updateScoreDisplay();
 
 console.log(keysArray);
 
-const valueOfKey = (name) => {
+const valueOfKey =  (name) => {
   console.log(name);
   let keyVal = 0;
   if (name === "rock") {
